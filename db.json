@@ -1,1 +1,16 @@
-{}
+{
+  "user": {
+    "id": "jBWMVGjm5016LGwepDoty",
+    "username": "para mi"
+  },
+  "pets": [
+    {
+      "id": "1",
+      "name": "Nala"
+    },
+    {
+      "id": "2",
+      "name": "Obi"
+    }
+  ]
+}
